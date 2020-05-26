@@ -1,6 +1,7 @@
 # BAETYL v2
 
 [![Baetyl-logo](./docs/logo_with_name.png)](https://baetyl.io)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fludanfeng%2Fbaetyl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fludanfeng%2Fbaetyl?ref=badge_shield)
 
 [![build](https://github.com/baetyl/baetyl/workflows/build/badge.svg)](https://github.com/baetyl/baetyl/actions?query=workflow%3Abuild)
 [![codecov](https://codecov.io/gh/baetyl/baetyl/branch/master/graph/badge.svg)](https://codecov.io/gh/baetyl/baetyl)
@@ -73,3 +74,6 @@ if you have better advice about Baetyl, please contact us:
 If you are passionate about contributing to open source community,
 Baetyl will provide you with both code contributions and document contributions.
 More details, please see: [How to contribute code or document to Baetyl](./docs/contributing.md).
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fludanfeng%2Fbaetyl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fludanfeng%2Fbaetyl?ref=badge_large)
